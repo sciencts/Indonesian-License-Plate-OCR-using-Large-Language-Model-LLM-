@@ -23,6 +23,8 @@ project/
             └── test/                         # YOLO label files
 ```
 
+---
+
 ## 📌 Project Description
 
 This project is implemented in Python using the following tools:
