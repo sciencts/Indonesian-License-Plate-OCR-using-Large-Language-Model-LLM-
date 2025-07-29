@@ -79,3 +79,25 @@ Example Output:
 
 📊 Average CER: 0.0384
 📁 Results saved to: ocr_results.csv
+
+---
+
+## 👤 Biodata
+
+**Nama**: Daipansyah Arya Saputra  
+**Universitas**: Politeknik Negeri Batam  
+**Program Studi**: Robotika  
+**Kelas**: RE 6A Pagi  
+
+---
+
+## 🎥 Link Video
+👉 [Link](https://youtu.be/C5xjHdheqzM?si=izJjLAq8hDd4vg7L)
+
+
+## 🛠️ Installation
+
+To install the required dependencies, run:
+
+```bash
+pip install scikit-learn scikit-image matplotlib numpy scipy
