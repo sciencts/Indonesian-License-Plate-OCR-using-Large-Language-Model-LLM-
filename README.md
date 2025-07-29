@@ -79,6 +79,7 @@ Example Output:
 
 📊 Average CER: 0.0384
 📁 Results saved to: ocr_results.csv
+```
 
 ---
 
