@@ -96,6 +96,8 @@ Example Output:
 
 👉 [Link](https://youtu.be/C5xjHdheqzM?si=izJjLAq8hDd4vg7L)
 
+---
+
 ## 🧰 Requirements
 
 - Python 3.10+
