@@ -8,6 +8,7 @@ The system uses a **Large Language Model (LLM)** (`qwen2-vl-2b-instruct`) via **
 
 ## 🗂 Directory Structure
 
+```
 project/
 ├── generate_ground_truth.py                  # Convert YOLO labels to text
 ├── run_ocr_and_evaluate.py                   # Run OCR and evaluate results
@@ -20,7 +21,7 @@ project/
         │   └── test/                         # Test images of license plates
         └── labels/
             └── test/                         # YOLO label files
----
+```
 
 ## 📌 Project Description
 
