@@ -101,4 +101,4 @@ Example Output:
 To install the required dependencies, run:
 
 ```bash
-pip install scikit-learn scikit-image matplotlib numpy scipy
+pip install -r requirements.txt
