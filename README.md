@@ -93,12 +93,21 @@ Example Output:
 ---
 
 ## 🎥 Link Video
+
 👉 [Link](https://youtu.be/C5xjHdheqzM?si=izJjLAq8hDd4vg7L)
 
+## 🧰 Requirements
 
-## 🛠️ Installation
+- Python 3.10+
+- Jupyter Notebook
+- Required packages:
+  - `evaluate`
+  - `pandas`
+  - `lmstudio`
+  - `os`
+  - `jiwer`
 
-To install the required dependencies, run:
+Install required packages:
 
 ```bash
 pip install -r requirements.txt
