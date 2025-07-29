@@ -34,6 +34,9 @@ This project is implemented in Python using the following tools:
 - `evaluate` – to calculate Character Error Rate (CER)
 - `os`, `csv` – for file processing and path management
 
+The dataset used is the **Indonesian License Plate Dataset**, available on Kaggle:  
+👉 [Indonesian License Plate Dataset on Kaggle](https://www.kaggle.com/datasets/juanthomaswijaya/indonesian-license-plate-dataset)
+
 > The license plate dataset is the **Indonesian License Plate Recognition Dataset**, consisting of images and YOLO-format labels.
 
 ---
