@@ -94,7 +94,7 @@ Example Output:
 
 ## 🎥 Link Video
 
-👉 [Link](https://youtu.be/C5xjHdheqzM?si=izJjLAq8hDd4vg7L)
+👉 [Link](https://youtu.be/vw2fltLSB7U)
 
 ---
 
